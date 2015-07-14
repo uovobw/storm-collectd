@@ -23,6 +23,7 @@ the storm-collectd.conf file in `/etc/collectd/collectd.conf.d` directory
 TODO
 ====
 
+- be able to poll a UI that is not living on the same node as the collectd daemon
 - clean up the code
 - add the topology detail values with bolts, spouts and general data
 - add configuration callback to toggle in-depth analisys
